@@ -20,6 +20,9 @@ dependencies = [
     "pandas >= 1.5.0",
 ]
 
+[project.urls]
+"Homepage" = "https://github.com/MVjimboUniversity/python_for_data_analysis/tree/main/hotest_month_city"
+
 [tool.isort]
 profile = "black"
 src_paths = ["project", "tests"]
